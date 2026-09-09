@@ -61,8 +61,9 @@ Raw transactional data often contains corrupt string placeholders, missing tempo
 
 ## 💡 Key Business Findings (Exploratory Data Analysis)
 
-- **Food Drives Higher Ticket Size:** While transaction counts are balanced (~4,521 Drink orders vs. 4,510 Eatable orders),
-- **Eatables generated $44,728** vs. **$35,920 for Drinks** due to a higher Average Order Value (**$9.92** vs. **$7.95**).
-- **Online Channel Dominance:** Digital transactions generated **$40,913.50**, doubling offline cash transactions ($20,415.50), while maintaining equal average ticket sizes (~$9.00).
+(Updating Soon)
+
+#<img width="1486" height="590" alt="Screenshot 2026-09-09 220314" src="https://github.com/user-attachments/assets/b0bb39ea-1fa6-4977-8a7e-78a55cc79e93" />
+
 
 ---
