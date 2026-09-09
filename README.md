@@ -63,10 +63,10 @@ Raw transactional data often contains corrupt string placeholders, missing tempo
 
 (Updating Soon)
 
-* Before Data Cleaning Results
+# Before Data Cleaning Results
 <img width="1486" height="590" alt="Screenshot 2026-09-09 220314" src="https://github.com/user-attachments/assets/f993b38c-27ec-431f-86f7-0075fdd49b6e" />
 
-* After Data Cleaning Results 
+# After Data Cleaning Results 
 <img width="1452" height="660" alt="Screenshot 2026-09-09 220143" src="https://github.com/user-attachments/assets/0c9dbd53-e957-4cb2-852d-7d26ce250ebf" />
 
 ---
